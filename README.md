@@ -1,4 +1,3 @@
 # Codecademy Projects
 
-This repository contains **codecademy projects** which are:
-- SkillFair Website (HTML/CSS)
+This is a project of codecademy made by the use of Bootstrap and some adiitional CSS. No JS used.
