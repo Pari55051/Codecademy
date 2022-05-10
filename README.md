@@ -1,4 +1,3 @@
 # Codecademy Projects
 
-This repository contains **codecademy projects** which are:
-- SkillFair Website (HTML/CSS)
+This is a codecademy project with some additional designing
